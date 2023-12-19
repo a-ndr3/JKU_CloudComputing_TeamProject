@@ -2,6 +2,8 @@
 
 ## Team Members
 - Andrei Blokhin
+- Valentin Jochinger
+- Jürgen Göller
 - 
 
 ### Proposal Link
