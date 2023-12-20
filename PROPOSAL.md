@@ -1,9 +1,9 @@
 # Explore Dynatrace to observe your application
 
+## Definition/Scope
+
 We are interested in working with the stack of technologies provided by the [Google cloud demo](https://github.com/GoogleCloudPlatform/microservices-demo)
 application as well as learn to use the Dynatrace software.
-
-## Definition/Scope
 
 ## Milestones
 
