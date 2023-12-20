@@ -4,7 +4,7 @@
 - Andrei Blokhin
 - Valentin Jochinger
 - Jürgen Göller
-- 
+- Živko Popić
 
 ### Proposal Link
 
