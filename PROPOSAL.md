@@ -8,8 +8,15 @@ application as well as learn to use the Dynatrace software.
 ## Milestones
 
 - [ ] Demo project setup
-- [ ] Setting up monitoring for Kubernetes
 - [ ] Explore Dynatrace application
+    - Install and Configure the Monitoring Agent
+    - Set Up Service Discovery
+    - Configure Metrics Collection
+    - Set Up Dashboards and Alerts
+    - Integrate with Kubernetes API
+    - Monitor Cluster Components
+    - Log Collection
+    - Test and Validate
 - [ ] Tracing Requests with Dynatrace
 - [ ] Monitoring Logs
 - [ ] Analysing Metrics
