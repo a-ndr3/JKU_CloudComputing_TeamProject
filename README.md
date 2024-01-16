@@ -10,6 +10,9 @@
 
 --------------- Project Walkthrough --------------
 
+- [ ] Requirements and installed software required to proceed with the walkthrough: 
+   -  Docker (optional: DockerHub account)
+
 - [ ] Set Google Cloud project
    - Follow the guide from the demo from the 1st up to the 5th step
     
