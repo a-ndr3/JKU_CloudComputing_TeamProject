@@ -65,7 +65,7 @@
        
      ![image](https://github.com/a-ndr3/JKU_CloudComputing_TeamProject/assets/66060105/1fb4ad4c-c9e6-4002-85fa-ab6cddc919ab)
 
-- [ ] Monitor acctivity (events, logs etc.)
+- [ ] Monitor activity (events, logs etc.)
 
     ![image](https://github.com/a-ndr3/JKU_CloudComputing_TeamProject/assets/66060105/48174864-7638-43b5-997a-9871b12e6d68)
 
