@@ -7,6 +7,8 @@
 
 ### [Proposal Link](https://github.com/a-ndr3/JKU_CloudComputing_TeamProject/blob/main/PROPOSAL.md)
 
+### [Research and learned lessons Summary](https://github.com/a-ndr3/JKU_CloudComputing_TeamProject/blob/main/Research_LearnedLessons_Summary.md)
+
 
 
 --------------- Project Walkthrough --------------
