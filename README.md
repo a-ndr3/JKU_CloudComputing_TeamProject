@@ -1,4 +1,5 @@
-# Cloud Computing Project
+# Explore Dynatrace to observe your application
+
 
 ## Team Members
 - Andrei Blokhin
